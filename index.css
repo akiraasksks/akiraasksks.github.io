@@ -1,0 +1,50 @@
+        *{
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        .box{
+            height: 340px;
+            width: 355px;
+            text-align: center;
+            margin: 0 auto;
+            margin-top: 83px;
+            
+        }
+
+        .box img{
+            width: 48px;
+            height: 48px;
+            background-color: #ff4c00;
+
+        }
+
+        .box h1{
+            font-weight: 400;
+            padding-top: 34px;
+        }
+
+        .box input{
+            display: block;
+            height: 50px;
+            width: 355px;
+            margin-top: 15px;
+            margin-bottom: 15px;
+            border: 1px solid #e0e0e0;
+            padding: 15px;
+            color: #caebff;
+        }
+
+        .box .text{
+            margin-top: 50px;
+            border-top: 2px solid #e0e0e0;
+            border-bottom: 2px solid #e0e0e0;
+        }
+
+        .box button{
+            height: 50px;
+            width: 355px;
+            background-color: #ff4c00;
+            border: none;
+            color: #ffffff;
+        }
